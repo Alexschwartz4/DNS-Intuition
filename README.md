@@ -13,6 +13,7 @@ This tutorial demonstrates the intuition of on-premises Active Directory DNS use
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
+- DNS Manager
 
 <h2>Operating Systems Used </h2>
 
