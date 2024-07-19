@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://imgur.com/HSI8pyd.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>On-premises Active Directory DNS Excersise</h1>
